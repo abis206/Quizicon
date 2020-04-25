@@ -1,0 +1,63 @@
+﻿{
+  "questions": [
+    
+    {
+      "category": "sports",
+      "question": "How many holes are in a full round of golf?",
+      "choices": [
+        "12",
+        "1",
+        "15",
+        "18"
+      ],
+      "correctAnswer": 3
+    },
+    
+    {
+      "category": "entertainment",
+      "question": "Which singer accompanied 50 Cent in this hit 'Candy Shop'?",
+      "choices": [
+        "Olivia",
+        "Dido",
+        "Rihanna",
+        "Mary J Blige"
+      ],
+      "correctAnswer": 0
+    },
+    
+    {
+      "category": "general",
+      "question": "How many heads are carved into Mount Rushmore?",
+      "choices": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    
+    {
+      "category": "history",
+      "question": "Who was the first American billionaire?",
+      "choices": [
+        "Andrew Carnegie",
+        "W.K. Kellogg",
+        "John Pierpont Morgan",
+        "John D. Rockefeller"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "category": "science",
+      "question": "What is known as the 'master gland' of the human body?",
+      "choices": [
+        "Thyroid gland",
+        "Pituitary gland",
+        "Pineal gland",
+        "Pancreas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}
