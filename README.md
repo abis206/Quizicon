@@ -1,4 +1,4 @@
-# TrivialTrivia
+# Quizicon
 Remake of "trivial trivia" with native Android code and a truer implementation of Model-View-Presenter paradigm.
 
 ## Installation
